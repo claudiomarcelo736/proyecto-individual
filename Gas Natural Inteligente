@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <nav class="menuh">
+        <div class="logo">
+            
+        </div>
+        <ul>
+            <li><a class="active" href="#">Inicio</a></li>
+            <li><a href="#">Domotica Aplicada al Gas Natural</a></li>
+            <li><a href="#">Nuestros servicios</a></li>
+            <li><a href="#">Nuestros productos</a></li>
+            <li><a href="#">Ubicacion y Horarios</a></li>
+            <li><a href="#">Contacto</a></li>     
+        </ul>
+    </nav> 
+
+        <h1>Gas Natural Inteligente Patagonia</h1><br> 
+        <hr>
+    <main>
+        <section>
+            <h2>CONOCENOS </h2><br>
+                <p>
+                Un producto acorde a nuestros tiempos donde cada minutos cuenta, ahora esta en nuestras manos el control del gas en el hogar para llegar a la casa  
+                calentita en el invierno y ahorrar gas en el verano al adquirir nuestros calentadores te damos la tranquilidad de que estan certificados por
+                la SEC y donde nuestra app actua de manera segura para la regulacion a distancia, sin embargo la tecnologia no lo es todo y nuestros calentadores
+                cuentan con un recubrimiento ceramico que alarga la vida del calentador y aumenta el calor que puede generar por metro cuadrado contribuyendo asi 
+                a la eficiencia energetica por un mundo mejor.
+                El respaldo de nuestros calentadores incorporan una garantia de 6 meses pero si contrata la mantencion anual con nosotros esta garantia se extiende a 
+                dos años, nuestro equipo de mantenciones esta entrenado por un gasfiter con mas de 25 años de experiencia y es la persona que diseño y creo toda la 
+                estructura de nuestros calentadores.
+                En definitiva creamos un producto de exelencia que puede ser acompañado por nosotros durante toda su vida util para hacer de la experiencia Gas 
+                Natural Inteligente Patagonia la oportunidad de enamorarse de un calentador
+                </p>
+        </section>
+            <br>
+        <article>
+            <h2>NUESTROS VALORES</h2><br>
+            <ul>
+                <li>compromiso sincero con la calidad</li>
+                <li>dar mas valor de lo esperado (mejoramiento continuo como pilar)</li>
+                <li>compromiso sincero con la calidad</li>
+                <li>seguridad ante todo</li>
+                <li>estar con nuestros clientes en todo momento</li>
+            </ul>       
+            <img src="C:\Users\Usuario\Escritorio\cursoimagen\fotoweb.jpg"width="297"height="300">
+        </article>
+    </main>
+    <footer>
+        <ul>
+            <li><a href="pag/contacto.html">contacto</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
